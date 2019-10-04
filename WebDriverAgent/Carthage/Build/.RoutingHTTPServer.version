@@ -1,0 +1,15 @@
+{
+  "commitish" : "v1.0.2",
+  "iOS" : [
+    {
+      "name" : "RoutingHTTPServer",
+      "hash" : "024b439ffef5152ee40f756c1d2f103994fe8efe6fc2f75a7f377927fc5b8d92"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "RoutingHTTPServer",
+      "hash" : "35496f409f4d65fa49393e6b2ffc3bdcaaf1e049343adeef9e3ce7f0f426daef"
+    }
+  ]
+}
